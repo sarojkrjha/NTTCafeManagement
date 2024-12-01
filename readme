@@ -1,4 +1,6 @@
 -------------------------
+
+
 1. Prerequisites
 Before running the solution, ensure you have the following software installed:
 
@@ -6,9 +8,12 @@ Node.js (for React frontend)
 npm (or Yarn if preferred)
 .NET SDK (for the .NET API)
 A code editor like Visual Studio Code or Visual Studio (optional)
+DBScript.sql
 
 git clone  git remote add origin https://github.com/sarojkrjha/NTTCafeManagement.git
 cd your-repository-folder
+Run DB script to create Database
+with initial record
 
 2. cd Api
 dotnet restore
