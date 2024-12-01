@@ -1,1 +1,34 @@
 -------------------------
+1. Prerequisites
+Before running the solution, ensure you have the following software installed:
+
+Node.js (for React frontend)
+npm (or Yarn if preferred)
+.NET SDK (for the .NET API)
+A code editor like Visual Studio Code or Visual Studio (optional)
+
+git clone  git remote add origin https://github.com/sarojkrjha/NTTCafeManagement.git
+cd your-repository-folder
+
+2. cd Api
+dotnet restore
+dotnet build
+dotnet run
+
+***
+3. Set Up the Frontend (React)
+a. Navigate to the NTTCafeManagementFE
+ 
+cd NTTCafeManagementFE
+ 
+Before running the React app, install the required npm packages:
+
+ 
+npm install
+
+Start the React Development Server
+To run the React app locally:
+
+ 
+npm start dev
+This will start the React development server on http://localhost:3000.
