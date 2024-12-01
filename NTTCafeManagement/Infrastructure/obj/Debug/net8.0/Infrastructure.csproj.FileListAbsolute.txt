@@ -1,0 +1,17 @@
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\NTTCafeManagement\NTTCafeManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
